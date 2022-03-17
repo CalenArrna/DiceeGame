@@ -1,0 +1,32 @@
+body {
+  background-color: #393E46;
+  color: #4FCCA2;
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+}
+
+.box {
+  padding: 0 10%;
+  margin: 3rem auto;
+}
+
+.title {
+  font-family: 'Lobster', cursive;
+  font-size: 7.26rem;
+}
+
+.roll-button {
+  background-color:  #4FCCA2;
+}
+
+.roll-button:hover {
+  background-color: #9D070C;
+}
+
+.footer-box{
+  margin: 8rem auto 0;
+}
+
+.footer {
+  color: white;
+}
